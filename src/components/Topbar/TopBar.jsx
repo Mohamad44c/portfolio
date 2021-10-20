@@ -1,5 +1,5 @@
-import React from "./TopBar.scss"
-import { Person, Mail } from "@material-ui/icons"
+import React from "./TopBar.scss";
+import { Person, Mail } from "@material-ui/icons";
 
 export default function TopBar({ menuOpen, setMenuOpen }) {
     return (
