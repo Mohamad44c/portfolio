@@ -5,7 +5,7 @@ import {
     featuredPortfolio,
     webPortfolio,
     mobilePortfolio,
-    
+
 } from "../../data";
 
 export default function Portfolio() {
@@ -39,7 +39,7 @@ export default function Portfolio() {
             case "mobile":
                 setData(mobilePortfolio);
                 break;
-            
+
             default:
                 setData(featuredPortfolio);
         }

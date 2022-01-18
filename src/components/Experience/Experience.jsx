@@ -1,6 +1,6 @@
-import "./Testimonials.scss";
+import "./Experience.scss";
 
-export default function Testimonials() {
+export default function Experience() {
     const data = [
         {
             id: 1,
@@ -35,8 +35,8 @@ export default function Testimonials() {
         },
     ];
     return (
-        <div className="testimonials" id="testimonials">
-            <h1>Testimonials</h1>
+        <div className="Experience" id="Experience">
+            <h1>Experience</h1>
             <div className="container">
                 {data.map((d) => (
                     <div className={d.featured ? "card featured" : "card"}>

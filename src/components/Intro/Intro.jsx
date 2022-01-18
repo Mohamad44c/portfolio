@@ -12,7 +12,7 @@ export default function Intro() {
             showCursor: true,
             backDelay: 1500,
             backSpeed: 60,
-            strings: ["Web Development", "Mobile Development", "Networks", "Artificial Intelligence"] });
+            strings: ["Web Development", "Mobile Development", "Computer Networks", "Computer Security"] });
     }, []);
 
     return (
