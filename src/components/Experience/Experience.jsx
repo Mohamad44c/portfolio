@@ -4,32 +4,32 @@ export default function Experience() {
     const data = [
         {
             id: 1,
-            name: "Tom Durden",
-            title: "Senior Developer",
+            name: "PC Garage",
+            title: "Technical Support",
             img:
                 "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             desc:
-                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+                "I worked with PC Garage for 1 year learning sales, computer hardware refurbishing and data entry.",
         },
         {
             id: 2,
-            name: "Alex Kalinski",
-            title: "Co-Founder of DELKA",
+            name: "Ecomz",
+            title: "Merchant Success Executive",
             img:
-                "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fglobal-uploads.webflow.com%2F5f6e16afd274a43996712135%2F5f76f896ade25a224b2ba082_Group%25209570.png&f=1&nofb=1",
             desc:
-                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+                "I have been working with Ecomz for the past 9 months. My main tasks include front-end design, technical support, and data entry.",
             featured: true,
         },
-        {
-            id: 3,
-            name: "Martin Harold",
-            title: "CEO of ALBI",
-            img:
-                "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-            desc:
-                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
-        },
+        // {
+        //     id: 3,
+        //     name: "Martin Harold",
+        //     title: "CEO of ALBI",
+        //     img:
+        //         "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        //     desc:
+        //         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+        // },
     ];
     return (
         <div className="Experience" id="Experience">

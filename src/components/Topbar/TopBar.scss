@@ -39,7 +39,13 @@
                 span {
                     font-size: 15px;
                     font-weight: 500;
+                    cursor: pointer;
                 }
+            }
+            .githubLink{
+                text-decoration: none;
+                color: $maincolor;
+                font-family: inherit;
             }
         }
 
