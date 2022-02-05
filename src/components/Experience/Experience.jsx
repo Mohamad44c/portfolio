@@ -7,7 +7,7 @@ export default function Experience() {
             name: "PC Garage",
             title: "Technical Support",
             img:
-                "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.RPACFm2wwiTJBwPximWdrgHaE8%26pid%3DApi&f=1",
             desc:
                 "I worked with PC Garage for 1 year learning sales, computer hardware refurbishing and data entry.",
         },
