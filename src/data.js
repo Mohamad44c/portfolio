@@ -1,21 +1,21 @@
 export const featuredPortfolio = [
     {
         id: 1,
-        title: "Social Media App",
+        title: "E-Commerce Website",
         img:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.AC8JfGbRnYplip_BOgdEmwHaE8%26pid%3DApi&f=1",
     },
     {
         id: 2,
-        title: "Rampa UI Design",
+        title: "Parallel Programming",
         img:
-            "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.AtB0LYpt6k1O-eDjjGmj8AHaE8%26pid%3DApi&f=1",
     },
     {
         id: 3,
-        title: "E-commerce Web Design",
+        title: "E-Commerce Web Design",
         img:
-            "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.74sAOfAc0hiJx3BszIqM9gHaE8%26pid%3DApi&f=1",
     },
     // {
     //     id: 4,
@@ -40,19 +40,19 @@ export const featuredPortfolio = [
 export const webPortfolio = [
     {
         id: 1,
-        title: "Web Social Media App",
-        img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+        title: "Full-Stack Web E-Commerce",
+        img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.AC8JfGbRnYplip_BOgdEmwHaE8%26pid%3DApi&f=1",
     },
     {
         id: 2,
-        title: "Web Rampa UI Design",
-        img: "https://cdn.dribbble.com/users/3967258/screenshots/15463803/media/4fddb9a2caf3b3bd634060f706a91e73.png?compress=1&resize=1200x900",
+        title: "Portfolio Design",
+        img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.OOe7ppn6rJVcdBKeQxrc7gHaE6%26pid%3DApi&f=1",
     },
-    {
-        id: 3,
-        title: "Web E-commerce Design",
-        img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
-    },
+    // {
+    //     id: 3,
+    //     title: "Web E-Commerce Design",
+    //     img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
+    // },
     // {
     //     id: 4,
     //     title: "Web Relax App",
@@ -70,19 +70,19 @@ export const webPortfolio = [
     // },
 ];
 
-export const mobilePortfolio = [
+export const programmingPortfolio = [
     {
         id: 1,
-        title: "Mobile Social Media App",
+        title: "Parallel Programming",
         img:
-            "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.AtB0LYpt6k1O-eDjjGmj8AHaE8%26pid%3DApi&f=1",
     }
     ,
     {
         id: 2,
-        title: "Mobile E-commerce Design",
+        title: "Networks",
         img:
-            "https://cdn.dribbble.com/users/1998175/screenshots/15459384/media/48ac2b43ebe81ba0866afea1383cc939.png?compress=1&resize=1200x900",
+            "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.ueiB2YTqsqALtWOEO0apyQHaHa%26pid%3DApi&f=1",
     },
     // {
     //     id: 3,

@@ -18,18 +18,18 @@ export default function Experience() {
             img:
                 "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fglobal-uploads.webflow.com%2F5f6e16afd274a43996712135%2F5f76f896ade25a224b2ba082_Group%25209570.png&f=1&nofb=1",
             desc:
-                "I have been working with Ecomz for the past 9 months. My main tasks include front-end design, technical support, and data entry.",
+                "I have been working with Ecomz for the past 9 months. My main tasks include front-end design, technical support, and data entry. They have taught me the concepts of E-Commerce from A-Z",
             featured: true,
         },
-        // {
-        //     id: 3,
-        //     name: "Martin Harold",
-        //     title: "CEO of ALBI",
-        //     img:
-        //         "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        //     desc:
-        //         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
-        // },
+        {
+            id: 3,
+            name: "Web Development Bootcamp",
+            title: "Certificate",
+            img:
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.0dcROikq9uu-FGqDyKdSpQHaHa%26pid%3DApi&f=1",
+            desc:
+                "Over the summer of 2021 I completed a full-stack web development course on Udemy.",
+        },
     ];
     return (
         <div className="Experience" id="Experience">

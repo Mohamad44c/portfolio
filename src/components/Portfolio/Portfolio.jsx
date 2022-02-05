@@ -4,7 +4,7 @@ import React from "./Portfolio.scss";
 import {
     featuredPortfolio,
     webPortfolio,
-    mobilePortfolio,
+    programmingPortfolio,
 
 } from "../../data";
 
@@ -21,8 +21,8 @@ export default function Portfolio() {
             title: "Web App"
         },
         {
-            id: "mobile",
-            title: "Mobile App"
+            id: "programming",
+            title: "Programming"
         },
 
     ];
@@ -36,8 +36,8 @@ export default function Portfolio() {
             case "web":
                 setData(webPortfolio);
                 break;
-            case "mobile":
-                setData(mobilePortfolio);
+            case "programming":
+                setData(programmingPortfolio);
                 break;
 
             default:
