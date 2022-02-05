@@ -27,7 +27,7 @@ export default function Works() {
             icon: "./assets/writing.png",
             title: "Googling",
             desc:
-                "Experting in finding and learning from google and online resources",
+                "Expert in finding and learning from google and online resources",
             img:
                 "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
         },
