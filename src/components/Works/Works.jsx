@@ -26,8 +26,7 @@ export default function Works() {
             id: "3",
             icon: "./assets/writing.png",
             title: "Problem Solver",
-            desc:
-                "",
+            desc: "",
             img:
                 "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
         },
