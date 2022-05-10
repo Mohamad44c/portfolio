@@ -54,6 +54,7 @@
             h1{
                 font-size: 60px;
                 margin: 10px 0;
+                color: $maincolor;
                 @include mobile{
                     font-size: 25px;
                 }
@@ -71,7 +72,8 @@
                 }
 
                 span {
-                    color: crimson;
+                    // color: crimson;
+                    color: $maincolor;
                     font-size: inherit;
                 }
                 .ityped-cursor{
