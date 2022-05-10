@@ -1,7 +1,7 @@
 @import "../../global.scss";
 
 .Experience {
-  background-color: #CCD1E4;
+  background-color: #393E46;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -111,7 +111,7 @@
           }
         }
         h4{
-            color: rgb(121, 115, 115);
+            color: white;
             @include mobile{
               font-size: 13px;
             }

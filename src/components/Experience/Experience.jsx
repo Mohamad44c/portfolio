@@ -18,7 +18,7 @@ export default function Experience() {
             img:
                 "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fglobal-uploads.webflow.com%2F5f6e16afd274a43996712135%2F5f76f896ade25a224b2ba082_Group%25209570.png&f=1&nofb=1",
             desc:
-                "I have been working with Ecomz for the past 9 months. My main tasks include front-end design, technical support, and data entry. They have taught me the concepts of E-Commerce from A-Z",
+                "I have been working with Ecomz for a year now. My main tasks include front-end design, technical support, and data entry. They have taught me the concepts of E-Commerce from A-Z",
             featured: true,
         },
         {

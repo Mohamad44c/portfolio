@@ -10,7 +10,6 @@ function Certificates() {
         <div className="container">
           <img src="https://ecomzprod.blob.core.windows.net/assets/mohamadcheblitest/HtmlContent/e614f21ac1d8498ebfa80cd6e8632804-Original.jpeg" alt="" />      
         </div>
-        <h3>Many More To Come</h3> 
     </div>
   );
 }
