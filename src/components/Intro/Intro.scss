@@ -2,53 +2,50 @@
 
 .intro {
     background-color: white;
-    display: flex;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 
     @include mobile{
         flex-direction: column;
         align-items: center;
     }
-    .left {
-        flex: 0.5;
+    .center { 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
         overflow: hidden;
 
-        .imgContainer {
-            width: 700px;
-            height: 700px;
-            border-radius: 50%;
-            float: right;
-            overflow-y:hidden;
-            // display: flex;
-            // align-items: flex-end;
-            // justify-items: center;
+        .imgContainer {  
+            width: 100%;
+            height: 100%; 
+            overflow: hidden;
+            margin: 0 auto;
 
-            @include mobile {
-                align-items:start;
+            @include mobile { 
                 height: 250px;
                 width: 250px;
-                overflow-y:hidden;
+                overflow:hidden;
             }
-            img {
-                width: 100%;
+            img { 
+                width: 276px;
+                height: 276px; 
                 @include mobile{
                 }
             }
         }
-    }
-    .right {
-        flex: 0.5;
-        position: relative;
+    
 
         .wrapper {
             width: 100%;
             height: 100%;
-            padding-left: 50px;
             display: flex;
             flex-direction: column;
             justify-content: center;
             
-                @include mobile{
-                    padding-left:20px;
+                @include mobile{ 
                 }
 
             h1{
@@ -71,8 +68,7 @@
                     font-size: 10px;
                 }
 
-                span {
-                    // color: crimson;
+                span { 
                     color: $maincolor;
                     font-size: inherit;
                 }
@@ -90,10 +86,7 @@
             }
         }
 
-        a {
-            position: absolute;
-            bottom: 10px;
-            left: 40%;
+        a { 
 
             .icon {
                 color:$maincolor;

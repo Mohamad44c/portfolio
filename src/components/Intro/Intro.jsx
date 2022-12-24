@@ -18,13 +18,15 @@ export default function Intro() {
 
   return (
     <div className="intro" id="intro">
-      {/* <div className="left">
-          <div className="imgContainer">
-            <img src="assets/me.jpg" alt="me"></img>
-          </div>
-        </div> */}
-      <div className="right">
+      <div className="center">
         <div className="wrapper">
+          <div className="imgContainer">
+            <img
+              className="rounded-circle img-fluid img-thumbnail"
+              src="https://ecomzprod.blob.core.windows.net/assets/mohamadcheblitest/HtmlContent/759154aa3f0e43c68c4dae81713811cb-Original.jpeg"
+              alt="portrait"
+            ></img>
+          </div>
           <h2>Hi there, I'm</h2>
           <h1>Mohamad Chebli</h1>
           <h3>
