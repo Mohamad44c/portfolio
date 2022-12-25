@@ -14,6 +14,21 @@ export const featuredPortfolio = [
     title: "E-Commerce Web Design",
     img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.74sAOfAc0hiJx3BszIqM9gHaE8%26pid%3DApi&f=1",
   },
+  {
+    id: 4,
+    title: "Zuhair Murad",
+    img: "https://ecomzprod.blob.core.windows.net/assets/mohamadcheblitest/HtmlContent/83ea941be020455b97d292aa7d313867-Original.png",
+  },
+  {
+    id: 5,
+    title: "The Town Boutique",
+    img: "https://ecomzprod.blob.core.windows.net/assets/mohamadcheblitest/HtmlContent/92d3775fc07846f89e81b4f9e7210bc6-Original.png",
+  },
+  {
+    id: 6,
+    title: "Hadia Fine Jewellry",
+    img: "https://ecomzprod.blob.core.windows.net/assets/mohamadcheblitest/HtmlContent/7e1ddc8fb7cb44808cdf05d0aaaf4ef6-Original.png",
+  },
 ];
 
 export const webPortfolio = [
